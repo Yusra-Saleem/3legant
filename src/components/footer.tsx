@@ -1,6 +1,4 @@
-// components/Footer.js
 
-import { HiArrowRight } from "react-icons/hi";
 
 const Footer = () => {
   return (
