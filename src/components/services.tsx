@@ -72,7 +72,7 @@ function Services() {
                         <p className="text-base font-inter font-medium tracking-tight text-[#377DFF]">SALE UP TO 35% OFF</p>
                         <h2 className="md:text-5xl text-2xl font-poppins mt-1 md:mt-3 font-semibold tracking-wide">HUNDREDS of <br />
                             New lower prices!</h2>
-                        <p className="text-base md:text-xl mb-6 lg:pr-40 mt-2 md:mt-4">It's more affordable than ever to give every room in your home a stylish makeover</p>
+                        <p className="text-base md:text-xl mb-6 lg:pr-40 mt-2 md:mt-4">It&#39;s more affordable than ever to give every room in your home a stylish makeover</p>
  
                         <div className="flex">
                             <p className="text-base  font-medium">Shop Now</p>
