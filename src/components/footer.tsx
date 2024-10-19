@@ -59,8 +59,8 @@ const Footer = () => {
 
 
           </div>
-          <div className="">
-          <div className=" block lg:hidden mx-auto space-x-4 mt-6 mb-6 font-inter  text-center">
+          <div className=" block lg:hidden">
+          <div className=" mx-auto space-x-4 mt-6 mb-6 font-inter  text-center">
               <a href="#" className="text-white ">Privacy Policy</a>
               <a href="#" className="text-white">Terms of Use</a>
             </div>
